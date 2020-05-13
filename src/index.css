@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.content {
+  max-width: 1280px;
+  margin: 50px auto;
+}
+
+.goback {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.movie-row {
+  cursor: pointer;
+}
